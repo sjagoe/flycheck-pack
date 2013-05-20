@@ -1,3 +1,9 @@
 [submodule "lib/flycheck"]
 	path = lib/flycheck
 	url = git@github.com:lunaryorn/flycheck.git
+[submodule "lib/s"]
+	path = lib/s
+	url = git@github.com:magnars/s.el.git
+[submodule "lib/dash"]
+	path = lib/dash
+	url = git@github.com:magnars/dash.el.git
