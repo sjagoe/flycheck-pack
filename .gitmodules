@@ -1,0 +1,3 @@
+[submodule "lib/flycheck"]
+	path = lib/flycheck
+	url = git@github.com:lunaryorn/flycheck.git
